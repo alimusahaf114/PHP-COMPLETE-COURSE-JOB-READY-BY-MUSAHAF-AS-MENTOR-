@@ -15,6 +15,13 @@
 // echo (!true);
 // echo (!false);
 // echo (!(3>10))
-echo (!(10 > 20 && 30 > 100))
+// echo (!(10 > 20 && 30 > 100))
+
+
+// echo "Hello world";
+// $result = (30>90)?"Hello":"Bye";
+// echo $result
+// $result="2";
+// echo $result??""
 
 ?>
