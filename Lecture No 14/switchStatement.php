@@ -41,12 +41,12 @@
 //         echo "Invalid Day";
 // }
 
-switch(30 > 6){
-    case 4 > 2: 
-        echo "Hello world";
-        break;
-    case 2 :
-        echo "Bye World";
-        break;
-}
+// switch(30 > 6){
+//     case 4 > 2: 
+//         echo "Hello world";
+//         break;
+//     case 2 :
+//         echo "Bye World";
+//         break;
+// }
 ?>
