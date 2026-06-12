@@ -32,13 +32,13 @@
 //     echo "<br>";
 // }
 
-for($i = 1 ; $i <= 5 ; $i++){
-    if($i == 2){
-        continue;
-    }else if($i == 3){
-        continue;
-    }else{
-        echo "Mummy kuch nahi mil raha 😭😭😭 $i";
-    }
-}
+// for($i = 1 ; $i <= 5 ; $i++){
+//     if($i == 2){
+//         continue;
+//     }else if($i == 3){
+//         continue;
+//     }else{
+//         echo "Mummy kuch nahi mil raha 😭😭😭 $i";
+//     }
+// }
 ?>
